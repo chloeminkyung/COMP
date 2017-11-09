@@ -1,8 +1,8 @@
 //==============================================================================
 // Name        : main.cpp
 // Description : This is only a demo of BigDecimal test program. 
-// 	        	 The one which grades your homework will be more complete
-//	        	 and more strict.
+// 	         The one which grades your homework will be more complete
+//	         and more strict.
 //==============================================================================
 
 #include "bigDecimal.h"
