@@ -1,6 +1,8 @@
-/*
- * bigDecimal.h
- */
+//=================================================
+// Name        : bigDecimal.h
+// Created on  : 31 Oct 2017
+// Description : Big decimal header file
+//=================================================
 
 #ifndef BIGDECIMAL_H_
 #define BIGDECIMAL_H_
